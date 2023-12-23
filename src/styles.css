@@ -1,0 +1,8 @@
+div{
+    display: flex;
+    flex-direction: column;
+    background-color: #dcabf5;
+}
+h1{
+    color: lightseagreen;
+}
